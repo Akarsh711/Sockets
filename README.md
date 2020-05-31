@@ -1,10 +1,10 @@
-#Sockets in Python
-##Creating sockets from Sentdex video's of sockets link is here.
+# Sockets in Python
+## Creating sockets from Sentdex video's of sockets link is here.
 ``` python
 import socket
 ```
 
-##Getting Started
+## Getting Started
 
-##Version Preview
+## Version Preview
 
